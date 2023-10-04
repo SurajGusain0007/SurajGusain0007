@@ -15,6 +15,16 @@ Hello there! I'm Suraj Gusain, a passionate data enthusiast and recent B.Tech gr
 - [HackerRank](https://www.hackerrank.com/certificates/d7f0fe4109ab) Intermediate Assessment Test, Completed with Distinction, Auguest 2022
 - Meriskill Virtual Internship Completion, July 2023 -Spe2023
 
+## Skills & Technologies 💻
+
+- **Programming Languages:** Python, SQL, 
+- **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **Databases:** MySQL, SQLite
+- **Tools:** Jupyter Notebook, Git, GitHub,Mysql Workbench,Google collab
+- **Others:** Data Cleaning, Data Visualization, Statistical Analysis
+- **Data Visualization Tools: Excel,Power Bi,Power Query,Dax,Data Modelling
+- - 🌱 I’m currently learning Machine Learning
+
 
 
 
