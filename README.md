@@ -6,7 +6,9 @@ Hello there! I'm Suraj Gusain, a passionate data enthusiast and recent B.Tech gr
 
 - Bachelor of Technology (B.Tech) in Computer Science and Engineering, Kurushetra University, 2021
 - CGPA: 8.4/10.0 
-- I gave  Graduate Aptitude Test in Engineering (GATE) Exam, 2022
+- I attempted the GATE exam in 2022 in the field of Computer Science and Engineering to enhance my knowledge and skills. Although I did not qualify, this experience has motivated me to further strengthen my  
+  expertise in this area. Through continuous learning and hands-on projects, I am committed to advancing my knowledge and contributing meaningfully to the world of data analysis and technology.
+
 
 ## Courses & Certifications 📚
 
@@ -141,7 +143,17 @@ Key Insights
 7.1 We should increase Effectiveness
 7.2 We should improve and Reduce Sugar Conten
 
-[Linkedin Engagement](https://www.linkedin.com/posts/suraj020_marketing-insights-for-a-beverage-food-activity-7099270405898612736-1xB9?utm_source=share&utm_medium=member_desktop)
+## Let's Connect! 🌐
+
+- LinkedIn: [Suraj Gusain](https://www.linkedin.com/in/suraj020/)
+- Medium:[Suraj Gusain](https://medium.com/@soorajgusain786)
+- [My Portfolio ](https://surajgusain0007.github.io/AnalyticalInsightSurajGusain/)
+- [My Power BI Projects](https://bit.ly/44jMRWO)
+- [MY Leetcode Profile](https://leetcode.com/Suraj_Gusain/)
+- 📫 How to reach me: ...surajgusain002@gmail.com
+- 👯 I’m looking to job in Data Analyst
+   
+- - ⚡ Fun fact: Did you know that I've not only aced the challenges of B.Tech studies but also delved into the world of data analysis, attempting the GATE exam with determination? With a passion for continuous learning and an enthusiasm for exploring the data-driven universe, every project and certification I complete is a step closer to mastering the art of data analytics! 🚀📊
 
 
 
