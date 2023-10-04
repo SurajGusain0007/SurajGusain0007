@@ -33,6 +33,9 @@ Hello there! I'm Suraj Gusain, a passionate data enthusiast and recent B.Tech gr
 
 [![ZOMATO_EDA_WITH_PYTHON_AND_SQL](https://github-readme-stats.vercel.app/api/pin/?username=SurajGusain0007&repo=ZOMATO_EDA_WITH_PYTHON_AND_SQL&show_owner=true)](https://github.com/SurajGusain0007/ZOMATO_EDA_WITH_PYTHON_AND_SQL)
 
+[![Netflix-EDA-Project](https://github-readme-stats.vercel.app/api/pin/?username=SurajGusain0007&repo=Netflix-EDA-Project&show_owner=true)](https://github.com/SurajGusain0007/Netflix-EDA-Project)
+
+
 ## Power BI PROJECTS 🚀
 
 
