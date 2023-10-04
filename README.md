@@ -31,7 +31,7 @@ Hello there! I'm Suraj Gusain, a passionate data enthusiast and recent B.Tech gr
 
 [![FAASO_SQL_ANALYSIS_PROJECT](https://github-readme-stats.vercel.app/api/pin/?username=SurajGusain0007&repo=FAASO_SQL_ANALYSIS_PROJECT&show_owner=true)](https://github.com/YourUsername/FAASO_SQL_ANALYSIS_PROJECT)
 
-[![ZOMATO_EDA_WITH_PYTHON_AND_SQL](https://github-readme-stats.vercel.app/api/pin/?username=SurajGusain0007&repo=YourRepositoryName&show_owner=true)](https://github.com/SurajGusin0007/ZOMATO_EDA_WITH_PYTHON_AND_SQL)
+[![ZOMATO_EDA_WITH_PYTHON_AND_SQL](https://github-readme-stats.vercel.app/api/pin/?username=SurajGusain0007&repo=ZOMATO_EDA_WITH_PYTHON_AND_SQL&show_owner=true)](https://github.com/SurajGusin0007/ZOMATO_EDA_WITH_PYTHON_AND_SQL)
 
 
 
