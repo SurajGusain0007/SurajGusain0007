@@ -22,8 +22,8 @@ Hello there! I'm Suraj Gusain, a passionate data enthusiast and recent B.Tech gr
 - **Databases:** MySQL, SQLite
 - **Tools:** Jupyter Notebook, Git, GitHub,Mysql Workbench,Google collab
 - **Others:** Data Cleaning, Data Visualization, Statistical Analysis
-- Data Visualization Tools: Excel,Power Bi,Power Query,Dax,Data Modelling
-- 🌱 I’m currently learning Machine Learning
+- **Data Visualization Tools:** Excel,Power Bi,Power Query,Dax,Data Modelling
+-  I’m currently learning Machine Learning
 
 
 
