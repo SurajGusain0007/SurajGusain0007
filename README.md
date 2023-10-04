@@ -77,6 +77,8 @@ Hello there! I'm Suraj Gusain, a passionate data enthusiast and recent B.Tech gr
 3. Creating calculated columns.
 4. Data Modelling.
 
+- Technologies used: Power BI,Excel,Dax,Data Modelling
+
 𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻:
 1. Total Revenue is overall $𝟭.𝟲𝟵𝗕
 2. ADR is 𝗥𝘀 𝟭𝟮,𝟲𝟵𝟲 
