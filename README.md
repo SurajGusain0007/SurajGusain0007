@@ -51,6 +51,7 @@ Hello there! I'm Suraj Gusain, a passionate data enthusiast and recent B.Tech gr
 3. Creating calculated columns.
 4. Data Modelling
 - Technologies used: Power BI,Excel,Dax,Data Modelling
+  
 -[Linkedin Engagement](https://www.linkedin.com/posts/suraj020_supply-chain-issue-in-the-fmcg-domain-activity-7108683429671530496-ry9I?utm_source=share&utm_medium=member_desktop)
 
 
