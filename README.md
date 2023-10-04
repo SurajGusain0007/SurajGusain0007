@@ -13,7 +13,7 @@ Hello there! I'm Suraj Gusain, a passionate data enthusiast and recent B.Tech gr
 - Data Analyst Certification, 6-Month Course, [Skilledge](https://skill-edge.com/wp-content/uploads/2023/03/Suraj-Gusain_AE-17.pdf), May 2022-Nov 2022
 - [HackerRank](https://www.hackerrank.com/certificates/18fa7b934652) Basic Assessment Test, Completed with Distinction, May 2022
 - [HackerRank](https://www.hackerrank.com/certificates/d7f0fe4109ab) Intermediate Assessment Test, Completed with Distinction, Auguest 2022
-- Meriskill Virtual Internship Completion, July 2023 -Spe2023
+- Meriskill Virtual Internship Completion, July 2023 -Sep2023
 
 ## Skills & Technologies 💻
 
@@ -22,8 +22,8 @@ Hello there! I'm Suraj Gusain, a passionate data enthusiast and recent B.Tech gr
 - **Databases:** MySQL, SQLite
 - **Tools:** Jupyter Notebook, Git, GitHub,Mysql Workbench,Google collab
 - **Others:** Data Cleaning, Data Visualization, Statistical Analysis
-- **Data Visualization Tools: Excel,Power Bi,Power Query,Dax,Data Modelling
-- - 🌱 I’m currently learning Machine Learning
+- Data Visualization Tools: Excel,Power Bi,Power Query,Dax,Data Modelling
+- 🌱 I’m currently learning Machine Learning
 
 
 
