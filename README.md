@@ -26,6 +26,7 @@ Hello there! I'm Suraj Gusain, a passionate data enthusiast and recent B.Tech gr
 -  I’m currently learning Machine Learning
 
 ## Projects Portfolio 🚀
+-Project-1 IPL-PROJECT-WEBSITE
 [![IPL-PROJECT-WEBSITE](https://github-readme-stats.vercel.app/api/pin/?username=SurajGusain0007&repo=IPL-PROJECT-WEBSITE&show_owner=true)](https://github.com/SurajGusain0007/IPL-PROJECT-WEBSITE)
 
 
